@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Pramo\\Desktop\\projects\\FinalAssessment\\DVDLibraryAPI\\DVDLibraryTest\\DVDLibraryTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Pramo\\Desktop\\projects\\FinalAssessment\\DVDLibraryAPI\\DVDLibraryTest\\DVDLibraryTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pramo\\Desktop\\projects\\FinalAssessment\\DVDLibraryAPI\\DVDLibraryTest\\DVDLibraryTest.csproj",
+        "projectName": "DVDLibraryTest",
+        "projectPath": "C:\\Users\\Pramo\\Desktop\\projects\\FinalAssessment\\DVDLibraryAPI\\DVDLibraryTest\\DVDLibraryTest.csproj",
+        "packagesPath": "C:\\Users\\Pramo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pramo\\Desktop\\projects\\FinalAssessment\\DVDLibraryAPI\\DVDLibraryTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pramo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Pramo\\Desktop\\projects\\FinalAssessment\\DVDLibraryAPI\\DVDLibrary\\DVDLibrary.csproj": {
+                "projectPath": "C:\\Users\\Pramo\\Desktop\\projects\\FinalAssessment\\DVDLibraryAPI\\DVDLibrary\\DVDLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNet.Cors": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNet.WebApi.WebHost": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Pramo\\Desktop\\projects\\FinalAssessment\\DVDLibraryAPI\\DVDLibrary\\DVDLibrary.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pramo\\Desktop\\projects\\FinalAssessment\\DVDLibraryAPI\\DVDLibrary\\DVDLibrary.csproj",
+        "projectName": "DVDLibrary",
+        "projectPath": "C:\\Users\\Pramo\\Desktop\\projects\\FinalAssessment\\DVDLibraryAPI\\DVDLibrary\\DVDLibrary.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

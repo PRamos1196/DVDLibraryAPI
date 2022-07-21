@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5rgWpUKqUv0TRFUUW4/n5X6uJ3TrH3Xt+XvdsGHg58MGV96AYX0fCqz6rVXFqVFF3tH4NxObxkmDWKiMTfMKqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pramo\\Desktop\\projects\\FinalAssessment\\DVDLibraryAPI\\DVDLibraryTests\\DVDLibraryTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pramo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Pramo\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Pramo\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\Pramo\\.nuget\\packages\\nunit3testadapter\\4.0.0\\nunit3testadapter.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

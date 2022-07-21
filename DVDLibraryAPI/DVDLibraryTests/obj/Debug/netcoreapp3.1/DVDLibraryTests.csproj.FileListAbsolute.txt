@@ -1,0 +1,16 @@
+C:\Users\Pramo\Desktop\projects\FinalAssessment\DVDLibraryAPI\DVDLibraryTests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\Pramo\Desktop\projects\FinalAssessment\DVDLibraryAPI\DVDLibraryTests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\Pramo\Desktop\projects\FinalAssessment\DVDLibraryAPI\DVDLibraryTests\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\Pramo\Desktop\projects\FinalAssessment\DVDLibraryAPI\DVDLibraryTests\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\Pramo\Desktop\projects\FinalAssessment\DVDLibraryAPI\DVDLibraryTests\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\Pramo\Desktop\projects\FinalAssessment\DVDLibraryAPI\DVDLibraryTests\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\Users\Pramo\Desktop\projects\FinalAssessment\DVDLibraryAPI\DVDLibraryTests\bin\Debug\netcoreapp3.1\DVDLibraryTests.deps.json
+C:\Users\Pramo\Desktop\projects\FinalAssessment\DVDLibraryAPI\DVDLibraryTests\bin\Debug\netcoreapp3.1\DVDLibraryTests.dll
+C:\Users\Pramo\Desktop\projects\FinalAssessment\DVDLibraryAPI\DVDLibraryTests\bin\Debug\netcoreapp3.1\DVDLibraryTests.pdb
+C:\Users\Pramo\Desktop\projects\FinalAssessment\DVDLibraryAPI\DVDLibraryTests\obj\Debug\netcoreapp3.1\DVDLibraryTests.csproj.AssemblyReference.cache
+C:\Users\Pramo\Desktop\projects\FinalAssessment\DVDLibraryAPI\DVDLibraryTests\obj\Debug\netcoreapp3.1\DVDLibraryTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pramo\Desktop\projects\FinalAssessment\DVDLibraryAPI\DVDLibraryTests\obj\Debug\netcoreapp3.1\DVDLibraryTests.AssemblyInfoInputs.cache
+C:\Users\Pramo\Desktop\projects\FinalAssessment\DVDLibraryAPI\DVDLibraryTests\obj\Debug\netcoreapp3.1\DVDLibraryTests.AssemblyInfo.cs
+C:\Users\Pramo\Desktop\projects\FinalAssessment\DVDLibraryAPI\DVDLibraryTests\obj\Debug\netcoreapp3.1\DVDLibraryTests.csproj.CoreCompileInputs.cache
+C:\Users\Pramo\Desktop\projects\FinalAssessment\DVDLibraryAPI\DVDLibraryTests\obj\Debug\netcoreapp3.1\DVDLibraryTests.dll
+C:\Users\Pramo\Desktop\projects\FinalAssessment\DVDLibraryAPI\DVDLibraryTests\obj\Debug\netcoreapp3.1\DVDLibraryTests.pdb
